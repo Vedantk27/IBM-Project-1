@@ -166,9 +166,10 @@ This project is for academic and research purposes only and follows standard ope
 ## 📬 Contact
 
 **Vishal K. R**  
-Email: [vedantkakad27@gmail.com]  
+Email: [kakadvedant@gmail.com]  
 GitHub: [https://github.com/Vedantk27/IBM-Project-1.git]
 LinkedIn: [www.linkedin.com/in/vedant-kakad]
+
 
 
 
