@@ -1,5 +1,6 @@
 # Improved Source of Drinking Water 💧
-**Capstone Project | IBM Cloud + AI Kosh |Prof Ram Meghe College of Engineering and Management Badnera (CSE-DS)**  
+**Capstone Project | IBM Cloud + AI Kosh |Prof Ram Meghe College of Engineering and Management Badnera 
+(CSE-DS)**  
 **Author:** Vedant A Kakad
 
 ---
@@ -165,8 +166,9 @@ This project is for academic and research purposes only and follows standard ope
 ## 📬 Contact
 
 **Vishal K. R**  
-Email: [vshldare@gmail.com](mailto:vshldare@gmail.com)  
-GitHub: [github.com/VishalKR-12](https://github.com/VishalKR-12)  
-LinkedIn: [linkedin.com/in/vishal-k-r-b762a0371](https://www.linkedin.com/in/vishal-k-r-b762a0371)
+Email: [vedantkakad27@gmail.com]  
+GitHub: [https://github.com/Vedantk27/IBM-Project-1.git]
+LinkedIn: [www.linkedin.com/in/vedant-kakad]
+
 
 
